@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/junaid-ahmed-2bb431330/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" style="margin-right:20px;" />
   </a>
-  <a href="https://www.instagram.com/junaidahmedjs1" target="_blank">
+  <a href="https://www.instagram.com/junaidahmedtech" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="60" style="margin-right:20px;" />
   </a>
   <a href="mailto:junaidahmedjs110@gmail.com">
