@@ -2,7 +2,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFBB&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer+%7C+React+Learner;Turning+Ideas+Into+Interactive+Reality+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFBB&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React+Learner;Turning+Ideas+Into+Interactive+Reality+💡" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,7 +68,8 @@
 
 - 🔵 TypeScript Power  
 - 🔵 React Hooks + Context API  
-- 🔵 Firebase Firestore + Rules
+- 🔵 MangoDB
+- 🔵 Next Js
 
 ---
 
